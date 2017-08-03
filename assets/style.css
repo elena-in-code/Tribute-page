@@ -1,0 +1,17 @@
+body {
+	background: black;
+	font-family: 'Caudex', serif;
+}
+h1 {
+	font-family: 'Caudex', serif;
+	font-weight: bold;
+	margin: 0;
+}
+h2 {
+	margin-top: -10px;
+	margin-bottom: 20px;
+}
+.jumbotron {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
