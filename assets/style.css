@@ -9,9 +9,39 @@ h1 {
 }
 h2 {
 	margin-top: -10px;
-	margin-bottom: 20px;
+	margin-bottom: 7px;
+}
+hr {
+
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
 }
 .jumbotron {
-	margin-top: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.thumbnail p {
+	font-size: small;
+}
+
+blockquote-reverse {
+	font-size: medium;
+	background: rgba(255, 255, 255, 0.6);
+}
+.doodle {
 	margin-bottom: 10px;
+}
+a {
+	text-decoration: none !important;
+	color: inherit;
+}
+ footer {
+ 	color: white;
+ 	font-size: small;
+	background-color: black;
+	max-height: 40px;
+	margin: 0;
+	padding: 5px 5px 9px 0;
+	text-align:  right;
 }
